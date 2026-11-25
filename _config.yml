@@ -22,8 +22,8 @@ title: BJJBLOG
 email: bjjblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog dedicado al Brazilian Jiu-Jitsu en España. En cada entrada repaso una competición celebrada en nuestro país: quién la organizó, dónde y cuando se disputó, qué categorías hubo y quiénes subieron a lo más alto del podio.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog_aer" # the subpath of your site, e.g. /blog
+url: "https://alexsarig.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bjjblog
 github_username:  bjjblog
 
